@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-18T20:00:46 CST" name="Default suite" finished-at="2021-11-18T20:01:23 CST" duration-ms="36571">
+    <groups>
+    </groups>
+    <test started-at="2021-11-18T20:00:46 CST" name="Default test" finished-at="2021-11-18T20:01:23 CST" duration-ms="36571">
+      <class name="test.TodoListTest">
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:test.TodoListTest@34f5090e]" started-at="2021-11-18T20:00:46 CST" name="initBrowser" finished-at="2021-11-18T20:00:49 CST" duration-ms="2856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="testTODOLIST()[pri:0, instance:test.TodoListTest@34f5090e]" started-at="2021-11-18T20:00:49 CST" name="testTODOLIST" finished-at="2021-11-18T20:01:02 CST" duration-ms="12650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTODOLIST -->
+        <test-method signature="testDueDateDropdown()[pri:1, instance:test.TodoListTest@34f5090e]" started-at="2021-11-18T20:01:02 CST" name="testDueDateDropdown" finished-at="2021-11-18T20:01:22 CST" duration-ms="20728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDueDateDropdown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.TodoListTest@34f5090e]" started-at="2021-11-18T20:01:22 CST" name="tearDown" finished-at="2021-11-18T20:01:23 CST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.TodoListTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
